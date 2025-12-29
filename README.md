@@ -1,6 +1,7 @@
 ## Welcome
 🌱 I’m currently learning Backend Development via Boot.dev
 
+💬Discord: thethirdwhisper
 
 <!--
 **TheThirdWhisper/TheThirdWhisper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
